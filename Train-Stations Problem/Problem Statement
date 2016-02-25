@@ -1,0 +1,4 @@
+The Problem Statement:
+
+Given 3 arrays of points on the Co-ordinate system (set of public transport systems in 3 cities),
+find 2 connections between the 3 cities such that their transport systems can be connected in the most efficient way.
